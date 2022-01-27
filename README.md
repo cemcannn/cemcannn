@@ -1,4 +1,4 @@
-#Cem Can
+Cem Can
 ---
 I'm Cem from Turkey and i'm learning Python. Now i'm working on test frameworks. I want to learn new languages like Go and Node.js.
 
