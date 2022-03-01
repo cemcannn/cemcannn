@@ -1,6 +1,6 @@
 Cem Can
 ---
-I'm Cem from Turkey and i'm learning Python. Now i'm working on test frameworks. I want to learn new languages like Go and Node.js.
+I'm Cem from Turkey and I'm learning Python. Now I'm working on test frameworks. I want to learn new languages like Go and Node.js.
 
 Skills
 ---
