@@ -1,15 +1,15 @@
 Cem Can
 ---
-I'm Cem from Turkey and I'm learning Python. Now I'm working on test frameworks. I want to learn new languages like Go and Node.js.
+I'm Cem from Turkey
 
 Skills
 ---
-(**PYTHON**)
+(**C#**)
 
-- 🔭 I’m currently working on (**Test cases**) 
-- 🌱 I’m currently learning (**Python**) 
-- 🤔 I’m looking for help with (**Selenium, Pytest**) 
-- 💬 Ask me about (**Python**) 
+- 🔭 I’m currently working on (**.Net Core**) 
+- 🌱 I’m currently learning (**.Net Core**) 
+- 🤔 I’m looking for help with (**.Net Core**) 
+- 💬 Ask me about (**C#**) 
 - 📫 How to reach me: cmcan@windowslive.com 
 
 
